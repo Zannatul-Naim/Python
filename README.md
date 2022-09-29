@@ -7,3 +7,4 @@
 - [05. Set](https://github.com/Zannatul-Naim/Learning-Python/tree/main/Set)
 - [06. Dictionary](https://github.com/Zannatul-Naim/Learning-Python/tree/main/Set)
 - [07. Conditions](https://github.com/Zannatul-Naim/Learning-Python/tree/main/Conditions)
+- [08. Loops](https://github.com/Zannatul-Naim/Learning-Python/tree/main/Loops)
