@@ -9,4 +9,4 @@
 - [07. Dictionary](https://github.com/Zannatul-Naim/Learning-Python/tree/main/Set)
 - [08. Loops](https://github.com/Zannatul-Naim/Learning-Python/tree/main/Loops)
 - [09. Functions](https://github.com/Zannatul-Naim/Learning-Python/tree/main/Functions)
-- [10. Exception Handling[(https://github.com/Zannatul-Naim/Learning-Python/tree/main/Exception-Handling)
+- [10. Exception Handling](https://github.com/Zannatul-Naim/Learning-Python/tree/main/Exception-Handling)
