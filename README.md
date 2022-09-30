@@ -8,3 +8,4 @@
 - [06. Dictionary](https://github.com/Zannatul-Naim/Learning-Python/tree/main/Set)
 - [07. Conditions](https://github.com/Zannatul-Naim/Learning-Python/tree/main/Conditions)
 - [08. Loops](https://github.com/Zannatul-Naim/Learning-Python/tree/main/Loops)
+- [09. Functions](https://github.com/Zannatul-Naim/Learning-Python/tree/main/Functions)
